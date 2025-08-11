@@ -1,0 +1,5 @@
+En la actualidad, el trabajo remoto, freelance y el estudio independiente han dado paso al auge de los espacios de coworking, lugares diseñados para fomentar la productividad, la flexibilidad y la colaboración. 
+
+El proyecto Smart Coworking System nace como una solución tecnológica integral para la gestión eficiente de espacios de trabajo compartido. A través de una matriz lógica de puestos (organizados en filas y columnas), sensores de disponibilidad y un sistema de reserva e identificación automatizado, se busca brindar una experiencia moderna, cómoda y personalizada tanto para usuarios como para administradores.
+
+Con esta propuesta, se pretende transformar la manera en la que interactuamos con los espacios de coworking, haciendo que sean más inteligentes, rentables y adaptados a las necesidades del presente digital.
